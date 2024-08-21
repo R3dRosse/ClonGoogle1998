@@ -1,0 +1,115 @@
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#logo{
+    height: 150px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+.cuadro{
+    align
+    width: 1700px;
+    margin: 0 auto;
+    padding: 10px
+    background-color: rgba(230, 230, 230, 0.9);
+    font-family: "DM Serif Text", serif;
+    font-size: 25px;
+    font-style: normal;
+    color: rgb(39, 40, 41);
+}
+
+/*Esto va dentro del primer cuadro*/
+#texto1{
+    margin-bottom: 0px;
+}
+#busqueda{
+    box-shadow: 2px 2px 2px rgba(39,40,41);
+    width: 500px;
+}
+#botoncuadrado{
+    background-color: rgba(216, 215, 215, 0.9);
+    padding: 10px 20px;
+    cursor: pointer;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #070707;
+    border-width: 2.5px;
+    margin-bottom: 3px;
+    box-shadow: 2px 2px 2px rgba(39,40,41);
+    width: 170px;
+}
+#boton{
+    background-color: rgba(216, 215, 215, 0.9);
+    cursor: pointer;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    border-style: solid;
+    border-radius: 200px;
+    border-color: #070707;
+    border-width: 2.5px;
+    margin-bottom: 3px;
+    box-shadow: 2px 2px 2px rgba(39,40,41);
+    width: 170px;
+}
+#texto2{
+    font-family: "DM Serif Text", serif;
+    font-size: 25px;
+    font-style: italic;
+    color: rgb(39, 40, 41);
+}
+
+/*Esto va fuera de los cuadros*/
+#link1{
+    font-family: "DM Serif Text", serif;
+    font-size: 50px;
+    font-style: normal;
+    margin-bottom: 20px;
+    margin-top: 45px;
+}
+#link2{
+    font-family: "DM Serif Text", serif;
+    font-size: 25px;
+    font-style: normal;
+    margin-top: 10px;
+}
+#liga1{
+    margin-right: 13px;
+}
+#liga2{
+    margin-left: 13px;
+}
+
+/*Esto va dentro del segundo cuadro*/
+#correo{
+    box-shadow: 2px 2px 2px rgba(39,40,41);
+    width: 250px;
+    margin-top: 15px;
+    color: rgba(39,40,41);
+    margin-bottom: 0px;
+}
+#link3{
+    font-family: "DM Serif Text", serif;
+    font-size: 22px;
+    font-style: normal;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+
+/*Esto fuera del cuadro, final*/
+#pie{
+    font-family: "DM Serif Text", serif;
+    font-size: 27px;
+    font-style: normal;
+    margin-top: 0px;
+}
